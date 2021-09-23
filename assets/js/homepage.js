@@ -10,6 +10,4 @@ var getUserRepos = function(user) {
     });
 };
 
-getUserRepos("microsoft");
-getUserRepos("facebook");
 getUserRepos("octocat");
